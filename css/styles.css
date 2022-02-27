@@ -1,0 +1,11 @@
+body{
+  background-color: black;
+  color: antiquewhite;
+}
+
+.side-bar{
+  float: right;
+  width:30%;
+  background-color:aquamarine;
+  color:black;
+}
